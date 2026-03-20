@@ -53,4 +53,6 @@ M.Tech Computational Biology
 ## 📌 Note
 This project demonstrates a complete computational pipeline for target-based drug discovery using publicly available datasets and bioinformatics tools.
 
-
+## 📂 Project Files
+- 📄 Detailed Report: See PDF file in repository  
+- 📊 Presentation: See PPT file in repository  
